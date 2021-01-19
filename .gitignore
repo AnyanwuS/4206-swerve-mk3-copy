@@ -1,0 +1,29 @@
+# Intellij files
+.idea/
+out/
+*.iml
+
+# Gradle files
+!.gradle/
+!build/
+
+!gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.jar
+
+.gradletasknamecache
+
+
+# Test outputs
+*.csv
+
+# Eclipse files
+.classpath
+.project
+.settings/
+bin/
+
+# VS Code files
+.vscode/
+
+# MacOS system files
+.DS_Store
